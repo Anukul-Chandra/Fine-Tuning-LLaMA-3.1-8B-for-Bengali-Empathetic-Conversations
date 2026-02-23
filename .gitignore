@@ -1,0 +1,13 @@
+# Mac
+.DS_Store
+
+# VS Code history
+.history/
+.lh/
+
+# Dataset
+dataset/
+
+# Python
+__pycache__/
+*.pyc
